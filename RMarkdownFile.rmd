@@ -1,1 +1,17 @@
+---
+title: "Coursework Analysis"
+author: "Rylan Park"
+date: "14/11/2023 - Present"
+output: html_document
+---
 
+## Conclusion can be made about sites based on spreadsheet values
+
+1. Avg temp >0 <24 (+trend graph)
+2. Avg sunlight per day >11 (+trend graph)
+3. 5% of monthly power should come from solar/ overall annually >= 5%
+4. Need >300kW per hour and  15kW of that 300kW needs to be from solar
+5. Find out what is more efficient rail or road (thoughts: Road for spoil Rail for materials)
+
+
+## Graphs of trends
